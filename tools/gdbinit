@@ -1,0 +1,4 @@
+target remote :1234
+layout split
+b dev_stdin_read
+c
